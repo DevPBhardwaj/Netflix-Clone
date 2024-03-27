@@ -1,0 +1,2 @@
+# Netflix-Clone
+ Netflix-Clone is a single-page application (SPA) built with React, replicating Netflix's interface. It offers a curated selection of movies and TV shows, mimicking Netflix's browsing experience. The UI is designed to be sleek and modern, providing a seamless user experience. Leveraging React's component-based architecture, the app efficiently manages state and updates the UI dynamically. With a polished design and robust functionality, Netflix-Clone showcases professional web development and UI/UX design principles.
